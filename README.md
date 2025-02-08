@@ -15,8 +15,8 @@ Let's build something awesome together!
 
 Connect with me:
 
-LinkedIn: [anibalealvarezs](https://www.linkedin.com/in/anibalealvarezs/?locale=en_US)
-Twitter: [AnibalAlvarez](https://x.com/AnibalAlvarez)
-Website: [anibalalvarez.com](https://anibalalvarez.com)
+LinkedIn: [anibalealvarezs](https://www.linkedin.com/in/anibalealvarezs/?locale=en_US)  
+Twitter: [AnibalAlvarez](https://x.com/AnibalAlvarez)  
+Website: [anibalalvarez.com](https://anibalalvarez.com)  
 
 Aníbal
